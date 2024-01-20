@@ -1,3 +1,5 @@
+Note: This fork should build better than the abandonned original repository.
+
 <div align="center">
   <h1>The Rust CUDA Project</h1>
 
